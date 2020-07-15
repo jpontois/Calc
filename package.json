@@ -1,0 +1,18 @@
+{
+  "name": "tp1_calculatrice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/calc.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^14.5.0"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
