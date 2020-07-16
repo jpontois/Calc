@@ -2,9 +2,9 @@
   "name": "tp1_calculatrice",
   "version": "1.0.0",
   "description": "",
-  "main": "src/calc.js",
+  "main": "src/app.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "mongoose": "^5.9.24",
     "node": "^14.5.0"
   },
   "devDependencies": {

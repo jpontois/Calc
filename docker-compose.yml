@@ -6,7 +6,7 @@ services:
         command:
             - /bin/sh
             - '-c'
-            - 'npm install && npm install --save-dev jest && npm start'
+            - 'npm install && npm start'
         ports:
             - '300:3000'
         volumes:
